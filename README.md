@@ -22,5 +22,5 @@ Analyze real Superstore sales data using SQL to answer key business questions.
 - Business metrics: AOV, monthly trends, profitability
 
 ## 📁 Files Included
-- `retail_sales_analysis.sql`: SQL queries for business analysis
-- `sample-superstore.csv`: Data used (or link to full data)
+- `Retail_Sales.sqbpro`: SQL queries for business analysis
+- `sample-superstore.csv`: Data used 
